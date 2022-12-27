@@ -1,0 +1,10 @@
+323139923
+Yazan Daefi 323139923
+HTTP client
+
+Submitted File: client.c
+Description: the file contains 7 functions in addition to the main, the program receives a request through main args,
+parses the request, makes a socket, connects to the server of the host, send request and reads the response.
+
+Notes: the parsing functions covered as much edge cases as could. according to lecturer's guidelines, we shouldn't cover every letter error.
+in clion (3.2022) there are a warnings, in fact it's not. I assume that you compile and run in the command line.

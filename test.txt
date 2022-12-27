@@ -1,0 +1,2 @@
+./client http://www.testingmcafeesites.com/ -r 0 -p 3 yaz
+./client http://www.webhook.site/3016d5e7-50f5-44e2-b560-50f5078ec3e5 -r 2 addr=israel tel=025862323 -p 6 blabla
